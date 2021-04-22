@@ -1,0 +1,69 @@
+
+/* Class = "UILabel"; text = "DEtails text"; ObjectID = "09S-Um-hS9"; */
+"09S-Um-hS9.text" = "Дополнительная информация";
+
+/* Class = "UILabel"; text = "Items:"; ObjectID = "0JB-Vm-jzh"; */
+"0JB-Vm-jzh.text" = "Количесто товаров:";
+
+/* Class = "UILabel"; text = "Groceries"; ObjectID = "3Bn-Lu-wJW"; */
+"3Bn-Lu-wJW.text" = "Groceries";
+
+/* Class = "UITextField"; placeholder = "List name"; ObjectID = "40N-Vr-SY0"; */
+"40N-Vr-SY0.placeholder" = "Имя списка покупок";
+
+/* Class = "UITextField"; placeholder = "Item name"; ObjectID = "sUk-8Q-y8m"; */
+"sUk-8Q-y8m.placeholder" = "Название товара";
+
+/* Class = "UINavigationItem"; title = "Items"; ObjectID = "FRA-H4-rvw"; */
+"FRA-H4-rvw.title" = "Список покупок";
+
+/* Class = "UILabel"; text = "Bought: 0/100"; ObjectID = "FeZ-SA-Mbl"; */
+"FeZ-SA-Mbl.text" = "Купленные продукты:: 0/100";
+
+/* Class = "UITableViewSection"; headerTitle = "Category"; ObjectID = "GLV-Hg-Kcf"; */
+"GLV-Hg-Kcf.headerTitle" = "Категория";
+
+/* Class = "UITableViewSection"; headerTitle = "Details (quantity, notes, etc)"; ObjectID = "Jcj-so-2Nr"; */
+"Jcj-so-2Nr.headerTitle" = "Дополнительная информация (количество, заметки и т.д.)";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "LkK-pr-cf3"; */
+"LkK-pr-cf3.title" = "Новый список";
+
+/* Class = "UITableViewSection"; headerTitle = "Name"; ObjectID = "MS8-bH-GI0"; */
+"MS8-bH-GI0.headerTitle" = "Имя";
+
+/* Class = "UILabel"; text = "Priority"; ObjectID = "Rq2-cE-gKA"; */
+"Rq2-cE-gKA.text" = "Выберите приоритет:";
+
+/* Class = "UITableViewSection"; headerTitle = "Photo"; ObjectID = "SWh-Kz-ynF"; */
+"SWh-Kz-ynF.headerTitle" = "Фотография";
+
+/* Class = "UINavigationItem"; title = "Lists"; ObjectID = "ZUe-A9-RdK"; */
+"ZUe-A9-RdK.title" = "Списки покупок";
+
+/* Class = "UILabel"; text = "List Name"; ObjectID = "c4s-Uy-1hh"; */
+"c4s-Uy-1hh.text" = "Название списка";
+
+/* Class = "UILabel"; text = "Start with adding Items."; ObjectID = "jod-gq-NbA"; */
+"jod-gq-NbA.text" = "Добавьте новый товар в список.";
+
+/* Class = "UILabel"; text = "date"; ObjectID = "kaj-gW-HeN"; */
+"kaj-gW-HeN.text" = "Дата";
+
+/* Class = "UIButton"; normalTitle = "New Shopping List"; ObjectID = "n0e-Fe-exa"; */
+"n0e-Fe-exa.normalTitle" = "Добавьте новый список покупок";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "njN-IZ-H5Q"; */
+"njN-IZ-H5Q.text" = "Название";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "rAd-iz-5vw"; */
+"rAd-iz-5vw.text" = "Назовите список покупок:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sRv-hm-3hg"; */
+"sRv-hm-3hg.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vza-3g-NLU"; */
+"vza-3g-NLU.text" = "Label";
+
+/* Class = "UILabel"; text = "Start with adding new Shopping List."; ObjectID = "w9x-zQ-dyi"; */
+"w9x-zQ-dyi.text" = "Создайте новый список покупок.";

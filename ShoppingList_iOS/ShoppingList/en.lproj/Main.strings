@@ -1,0 +1,69 @@
+
+/* Class = "UILabel"; text = "DEtails text"; ObjectID = "09S-Um-hS9"; */
+"09S-Um-hS9.text" = "Details text";
+
+/* Class = "UILabel"; text = "Items:"; ObjectID = "0JB-Vm-jzh"; */
+"0JB-Vm-jzh.text" = "Items:";
+
+/* Class = "UILabel"; text = "Groceries"; ObjectID = "3Bn-Lu-wJW"; */
+"3Bn-Lu-wJW.text" = "Groceries";
+
+/* Class = "UITextField"; placeholder = "List name"; ObjectID = "40N-Vr-SY0"; */
+"40N-Vr-SY0.placeholder" = "List name";
+
+/* Class = "UITextField"; placeholder = "Item name"; ObjectID = "sUk-8Q-y8m"; */
+"sUk-8Q-y8m.placeholder" = "Item name";
+
+/* Class = "UINavigationItem"; title = "Items"; ObjectID = "FRA-H4-rvw"; */
+"FRA-H4-rvw.title" = "Items";
+
+/* Class = "UILabel"; text = "Bought: 0/100"; ObjectID = "FeZ-SA-Mbl"; */
+"FeZ-SA-Mbl.text" = "Bought: 0/100";
+
+/* Class = "UITableViewSection"; headerTitle = "Category"; ObjectID = "GLV-Hg-Kcf"; */
+"GLV-Hg-Kcf.headerTitle" = "Category";
+
+/* Class = "UITableViewSection"; headerTitle = "Details (quantity, notes, etc)"; ObjectID = "Jcj-so-2Nr"; */
+"Jcj-so-2Nr.headerTitle" = "Details (quantity, notes, etc)";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "LkK-pr-cf3"; */
+"LkK-pr-cf3.title" = "Title";
+
+/* Class = "UITableViewSection"; headerTitle = "Name"; ObjectID = "MS8-bH-GI0"; */
+"MS8-bH-GI0.headerTitle" = "Name";
+
+/* Class = "UILabel"; text = "Priority"; ObjectID = "Rq2-cE-gKA"; */
+"Rq2-cE-gKA.text" = "Priority";
+
+/* Class = "UITableViewSection"; headerTitle = "Photo"; ObjectID = "SWh-Kz-ynF"; */
+"SWh-Kz-ynF.headerTitle" = "Photo";
+
+/* Class = "UINavigationItem"; title = "Lists"; ObjectID = "ZUe-A9-RdK"; */
+"ZUe-A9-RdK.title" = "Lists";
+
+/* Class = "UILabel"; text = "List Name"; ObjectID = "c4s-Uy-1hh"; */
+"c4s-Uy-1hh.text" = "List Name";
+
+/* Class = "UILabel"; text = "Start with adding Items."; ObjectID = "jod-gq-NbA"; */
+"jod-gq-NbA.text" = "Start with adding Items.";
+
+/* Class = "UILabel"; text = "date"; ObjectID = "kaj-gW-HeN"; */
+"kaj-gW-HeN.text" = "date";
+
+/* Class = "UIButton"; normalTitle = "Add New Shopping List"; ObjectID = "n0e-Fe-exa"; */
+"n0e-Fe-exa.normalTitle" = "Add New Shopping List";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "njN-IZ-H5Q"; */
+"njN-IZ-H5Q.text" = "Name";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "rAd-iz-5vw"; */
+"rAd-iz-5vw.text" = "Name";
+
+/* Class = "UILabel"; text = "Label\n21123"; ObjectID = "sRv-hm-3hg"; */
+"sRv-hm-3hg.text" = "Label\n21123";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vza-3g-NLU"; */
+"vza-3g-NLU.text" = "Label";
+
+/* Class = "UILabel"; text = "Start with adding new Shopping List."; ObjectID = "w9x-zQ-dyi"; */
+"w9x-zQ-dyi.text" = "Start with adding new Shopping List.";

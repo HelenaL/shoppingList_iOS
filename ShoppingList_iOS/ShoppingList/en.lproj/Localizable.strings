@@ -1,0 +1,46 @@
+/* 
+  Localization_ru.strings
+  ShoppingList
+
+  Created by Lenochka on 10/13/20.
+  Copyright © 2020 LEA. All rights reserved.
+*/
+
+"Alert_ok" = "Ok";
+"Alert_cancel" = "Cancel";
+"Alert_delete" = "Delete";
+"Alert_Edit" = "Edit";
+
+"ViewController_Label_Hello" = "Hello";
+
+"Priority_No_Priority" = "No Priority";
+"Priority_No" = "No";
+"Priority_Low_Priority" = "Low";
+"Priority_Mid_Priority" = "Middle";
+"Priority_High_Priority" = "High";
+
+"Category_No_Category" = "No category";
+"Category_Groceries" = "Groceries";
+"Category_Households" = "Households";
+"Category_Pharmacy" = "Pharmacy";
+"Category_Beauty" = "Beauty";
+"Category_Children" = "Children";
+"Category_Clothes" = "Clothes";
+"Category_Pets" = "Pets";
+"Category_Electronics" = "Electronics";
+"Category_Home" = "Home";
+"Category_Office" = "Office";
+"Category_Sport" = "Sport";
+"Category_Garden" = "Garden";
+"Category_DIY" = "DIY";
+
+"Alert_image_title" = "Choose Image";
+"Alert_image_library" = "From Library";
+"Alert_image_camera" = "From Camera";
+"Alert_image_delete" = "Delete Photo";
+
+"Label_Items_Count" = "Items:";
+"Label_Items_Bought_Count" = "Bought:";
+"Label_Bottom_Bought_Count" = "Bought:";
+
+

@@ -1,0 +1,46 @@
+/* 
+  Localization_ru.strings
+  ShoppingList
+
+  Created by Lenochka on 10/13/20.
+  Copyright © 2020 LEA. All rights reserved.
+*/
+
+"Alert_ok" = "Ok";
+"Alert_cancel" = "Отмена";
+"Alert_delete" = "Удалить";
+"Alert_Edit" = "Изменить";
+
+"ViewController_Label_Hello" = "Hello";
+
+"Priority_No_Priority" = "Без приоритета";
+"Priority_No" = "-";
+"Priority_Low_Priority" = "Низкий";
+"Priority_Mid_Priority" = "Средний";
+"Priority_High_Priority" = "Высокий";
+
+"Category_No_Category" = "Без категории";
+"Category_Groceries" = "Продукты";
+"Category_Households" = "Бытовые товары";
+"Category_Pharmacy" = "Лекарства";
+"Category_Beauty" = "Красота";
+"Category_Children" = "Детские товары";
+"Category_Clothes" = "Одежда";
+"Category_Pets" = "Товары для животных";
+"Category_Electronics" = "Электроника";
+"Category_Home" = "Товары для дома";
+"Category_Office" = "Канцелярские товары";
+"Category_Sport" = "Спорт";
+"Category_Garden" = "Товары для сада";
+"Category_DIY" = "Творчество";
+
+"Alert_image_title" = "Выберите изображение";
+"Alert_image_library" = "Библиотека";
+"Alert_image_camera" = "Камера";
+"Alert_image_delete" = "Удалить изображение";
+
+"Label_Items_Count" = "Количество товаров:";
+"Label_Items_Bought_Count" = "Куплено:";
+"Label_Bottom_Bought_Count" = "Купленные продукты:";
+
+
